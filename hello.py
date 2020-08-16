@@ -6,4 +6,5 @@ print('final test for git')
 print('some test for github')
 print('test from peter')
 print('test from peter in github for pull')
+print('final check pull & push')
 
