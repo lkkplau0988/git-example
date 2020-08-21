@@ -12,4 +12,5 @@ print('final check pull & push')
 #pull function seems some delay
 #pull function is no delay when you close all file and open again
 #pull test on 21-8-20
+#push test on 21-8-20
 
