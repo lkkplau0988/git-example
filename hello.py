@@ -6,11 +6,6 @@ print('final test for git')
 print('some test for github')
 print('test from peter')
 print('test from peter in github for pull')
-print('final check pull & push')
-#pull is not yet function
-#test the pull function again at local
-#pull function seems some delay
-#pull function is no delay when you close all file and open again
 #pull test on 21-8-20
-#push test on 21-8-20
+#push test on 22-8-20
 
